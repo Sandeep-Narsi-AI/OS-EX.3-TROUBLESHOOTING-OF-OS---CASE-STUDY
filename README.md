@@ -91,6 +91,6 @@ In the final step of the troubleshooting process, you must document your finding
 4. Document any components used in the repair
 5. Document the time spent to resolve the problem
 ![op](Picture1.png)
-![op](Picture2.png)
+![op](Picture2 (1).png)
 # RESULT:
 Thus the process of troubleshooting of OS is studied.
